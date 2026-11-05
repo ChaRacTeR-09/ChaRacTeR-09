@@ -2,204 +2,104 @@
 
 # Divyanshu Sharma
 
-### Founder @ [MyFirst Presence](https://myfirstpresence.com)
+### AI-Assisted Software Builder · CRM & SaaS Implementation · Workflow Automation
 
-**CRM Systems · AI Automation · Web Solutions · Business Operations**
+I turn real business requirements into usable digital products, combining product thinking, AI-assisted development, integration, and testing.
 
-### I turn business workflows into practical digital systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma-6ab114254/)
+[![MyFirst Presence](https://img.shields.io/badge/MyFirst%20Presence-Website-2563EB?style=for-the-badge)](https://myfirstpresence.com)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyansh810ds@gmail.com)
 
-[![MyFirst Presence](https://img.shields.io/badge/MYFIRST%20PRESENCE-193CB8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myfirstpresence.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma-6ab114254/)
-[![Email](https://img.shields.io/badge/LET'S%20TALK-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyansh810ds@gmail.com)
-
-`FOUNDER` · `BUILDER` · `CRM` · `AUTOMATION` · `DIGITAL SYSTEMS`
+**Based in Rajasthan, India · Open to remote roles, implementation projects & collaborations**
 
 </div>
 
 ---
 
-## 👋 About Me
+## About me
 
-I'm **Divyanshu Sharma**, Founder of **[MyFirst Presence](https://myfirstpresence.com)**.
+I'm a self-taught, AI-assisted application builder and founder of [MyFirst Presence](https://myfirstpresence.com). I focus on understanding business operations, designing practical workflows, and delivering prototypes and applications with modern development tools.
 
-I work at the intersection of **business operations, CRM, automation and web technology**. I like understanding how a business actually works first — its leads, people, follow-ups, customers and repetitive processes — and then designing a digital system around that workflow.
+My work spans loan-management CRMs, multi-tenant SaaS interfaces, appointment booking, and AI-powered research workflows. I use AI extensively for code generation and rely on iterative testing, debugging, and product validation. I'm continuing to strengthen my independent programming skills.
 
-> **Business problem → practical system → usable workflow.**
+## Featured projects
 
-🔹 Building CRM & lead-management systems  
-🔹 Creating AI calling and workflow automations  
-🔹 Developing responsive websites & B2B digital experiences  
-🔹 Designing role-based operational workflows and dashboards  
-🔹 Connecting tools through APIs, webhooks and automation  
-🔹 Using AI-assisted development to prototype, debug and ship faster
+### 🏦 Microfinance OS — Multi-Tenant Finance SaaS
+**Status:** Active development; live Supabase integration under validation
 
----
+A SaaS platform concept for microfinance businesses with five role-oriented portals: Super Admin, Company Admin, Branch Manager, Collection Agent, and Customer.
 
-## 🚀 What I Build
+- Branch and staff management, customer onboarding, loan and collection interfaces
+- Multi-tenant PostgreSQL schema, Supabase authentication and RLS design
+- Tenant provisioning, subscriptions/quotas, and live-data synchronization
+- Financial transaction integrity and cross-tenant security validation ongoing
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
 
-### 📊 CRM & Sales
-Lead management  
-Customer records  
-Sales pipelines  
-Follow-ups & reminders  
-Role-based access  
-Team workflows  
-Operational dashboards
+### 📊 D-S Traders — Loan & Savings Operations CRM
+**Status:** Deployed business application; private codebase
 
-</td>
-<td width="33%" valign="top">
+A field-operations CRM designed around real loan and savings workflows.
 
-### 🤖 AI & Automation
-AI calling workflows  
-n8n automation  
-Vapi integrations  
-REST APIs  
-Webhooks  
-Google Sheets automation  
-Lead qualification flows
+- Customer onboarding, KYC and agent management
+- Loan plans, repayment schedules, daily collections and receipts
+- Admin reporting and mobile-first collection workflows
+- Role-based access and database-backed records
 
-</td>
-<td width="33%" valign="top">
+**Stack:** Next.js · TypeScript · Supabase · PostgreSQL
 
-### 🌐 Web & Digital
-Business websites  
-B2B catalogues  
-Responsive interfaces  
-Enquiry flows  
-Business demos  
-Deployment  
-Custom digital experiences
+### 📅 MFP Booking Platform — Appointment Scheduling
+**Status:** Deployed booking experience
 
-</td>
-</tr>
-</table>
+A responsive appointment-booking interface with calendar availability, invitee questions, navigation, and confirmation flow. Work included UI refinement, performance optimization, and deployment checks.
+
+**Stack:** Next.js · React · TypeScript · CSS
+
+### ⚖️ AI Legal Research Platform
+**Status:** Prototype / deployment preparation
+
+A research-oriented application exploring structured legal queries, source handling, authenticated access, and AI-assisted workflows. Designed to support research rather than replace verification of legal authorities.
+
+**Stack:** Next.js · Supabase · OpenAI API · TypeScript
+
+> Project repositories and client data may remain private. Live demos or sanitized walkthroughs can be shared where appropriate. Descriptions reflect project work and do not imply that every feature is production-validated.
 
 ---
 
-## 🏢 Building MyFirst Presence
+## Technologies & tools
 
-### Founder · Digital Solutions & Automation
+**Application development:** Next.js · React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
-**MyFirst Presence** is where I build practical digital solutions around real business requirements — from a company's first professional web presence to CRM workflows and automation systems.
+**Backend & data:** Supabase · PostgreSQL · Authentication · Row-Level Security · REST APIs · Webhooks
 
-**Requirement Discovery** → **Solution Planning** → **Prototype** → **Implementation** → **Integration** → **Deployment**
+**AI & automation:** OpenAI API · n8n · AI-assisted development · Workflow automation
 
-**Focus:** `CRM` · `AI Automation` · `Business Websites` · `Workflow Systems`
+**Delivery:** Git · GitHub · Vercel · Cloudflare · VS Code · Testing and debugging
 
-### [Visit MyFirst Presence →](https://myfirstpresence.com)
-
-> **Your First Presence. Made Right.**
-
----
-
-## ⚡ Selected Systems & Projects
-
-### 📈 CRM & Sales Systems
-Custom workflow concepts and implementations covering **lead management, sales pipelines, customer records, follow-ups, targets, team roles, notifications and operational visibility**.
-
-### ☎️ AI Calling & Lead Automation
-Voice + workflow automation using **Vapi, n8n, APIs, webhooks, Google Sheets and Cloudflare** to connect conversations with structured lead and customer workflows.
-
-### 🧩 MFP Business OS
-An evolving business-management platform focused on **organization separation, role-based access, CRM workflows, internal communication, notifications and centralized operations**.
-
-### 💬 WhatsApp & Lead Automation
-Customer-enquiry and lead-qualification workflows connecting business communication with CRM and automation logic.
-
-### 🌐 Business Websites & B2B Catalogues
-Responsive digital experiences for use cases across **education, industrial/B2B, professional services, security services and automotive businesses**.
-
----
-
-## 🧰 Tech & Tools
-
-<div align="center">
-
-### Automation & AI
-![n8n](https://img.shields.io/badge/n8n-171717?style=for-the-badge&logo=n8n&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi-193CB8?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20APIs-171717?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-193CB8?style=for-the-badge)
-![Codex](https://img.shields.io/badge/AI--Assisted%20Development-171717?style=for-the-badge&logo=openai&logoColor=white)
-
-### Development
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-193CB8?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-193CB8?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-193CB8?style=for-the-badge&logo=github&logoColor=white)
-
-### Deployment & Workflow
-![Vercel](https://img.shields.io/badge/Vercel-171717?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-193CB8?style=for-the-badge&logo=cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-193CB8?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-</div>
-
----
-
-## 🔄 From Problem to Product
+## How I work
 
 ```text
-     BUSINESS PROBLEM
+Understand the business problem
             ↓
-   UNDERSTAND WORKFLOW
+Map users, roles and workflows
             ↓
-      DESIGN SYSTEM
+Prototype the experience
             ↓
-     PROTOTYPE + BUILD
+Build with AI-assisted tools
             ↓
-   INTEGRATE + AUTOMATE
+Integrate data and services
             ↓
-       TEST + DEPLOY
-            ↓
-          IMPROVE
+Test, debug and improve
 ```
 
-> I don't start with “Which technology should I use?” — I start with **“What is the business actually trying to solve?”**
+## What I'm looking for
 
----
-
-## 🎯 Current Focus
-
-| | Focus |
-|---|---|
-| `01` | Building **MyFirst Presence** |
-| `02` | CRM & sales workflow systems |
-| `03` | AI calling + business automation |
-| `04` | Reusable digital systems for real businesses |
-| `05` | Turning manual operations into structured workflows |
-
----
-
-## 📍 Quick Snapshot
-
-**Role:** Founder, MyFirst Presence  
-**Based in:** Rajasthan, India  
-**Working on:** CRM · Automation · Digital Systems  
-**Approach:** Business-first, practical, implementation-focused  
-**Open to:** Opportunities · Collaborations · Digital solution projects
-
----
+I'm interested in **CRM implementation, AI automation, SaaS product support, technical implementation, and junior web development opportunities** where practical problem-solving and continuous learning matter.
 
 <div align="center">
 
-## 🤝 Build Something Useful
+### Let's connect
 
-Have a business process that is still being managed manually or a workflow that should be simpler?
-
-### **Let's turn it into a practical digital system.**
-
-[![Website](https://img.shields.io/badge/Explore%20MyFirst%20Presence-193CB8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myfirstpresence.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-sharma-6ab114254/)
-[![Email](https://img.shields.io/badge/Email%20Me-171717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyansh810ds@gmail.com)
-
-**Divyanshu Sharma** · Founder, MyFirst Presence
+[LinkedIn](https://www.linkedin.com/in/divyanshu-sharma-6ab114254/) · [MyFirst Presence](https://myfirstpresence.com) · [Email](mailto:divyansh810ds@gmail.com)
 
 </div>
