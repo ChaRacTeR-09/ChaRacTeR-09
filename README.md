@@ -55,15 +55,6 @@ A responsive appointment-booking interface with calendar availability, invitee q
 
 **Stack:** Next.js · React · TypeScript · CSS
 
-### ⚖️ AI Legal Research Platform
-**Status:** Prototype / deployment preparation
-
-A research-oriented application exploring structured legal queries, source handling, authenticated access, and AI-assisted workflows. Designed to support research rather than replace verification of legal authorities.
-
-**Stack:** Next.js · Supabase · OpenAI API · TypeScript
-
-> Project repositories and client data may remain private. Live demos or sanitized walkthroughs can be shared where appropriate. Descriptions reflect project work and do not imply that every feature is production-validated.
-
 ---
 
 ## Technologies & tools
